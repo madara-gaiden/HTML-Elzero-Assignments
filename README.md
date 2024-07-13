@@ -8,4 +8,4 @@ Assignments: [https://elzero.org/category/assignments/python-assignments/]
 
 Watched Videos => [ 37 From 37 ]
 
-![100%](https://progress-bar.dev/37/)
+![37%](https://progress-bar.dev/100/)
